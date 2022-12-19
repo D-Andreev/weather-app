@@ -6,7 +6,7 @@ An application that uses OpenWeatherAPI (http://openweathermap.org/forecast5) to
 * Clone the repo
 * `npm i`
 * Get an api key from https://openweathermap.org/
-* Create a `.env` file with following content:
+* Create a `.env` file in the project root with following content:
   * VITE_WEATHER_API_KEY=XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
   * VITE_WEATHER_API_BASE_URL=https://api.openweathermap.org
 * `npm run dev` to start the development server
