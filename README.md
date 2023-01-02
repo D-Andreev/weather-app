@@ -19,7 +19,6 @@ Run `npm run build` to build for production
 * `npm run test` to run tests
 
 ## Future improvements
-This app was built for 1 working day. There are several things that can be added/improved:
 * Display detailed weather data for a particular day by clicking on the day tile
 * Although the grid with tiles is readable on very large and very small resolutions, UX can be improved quite a bit.
 * There are some unit tests for the services and utils, but more can be added, for example for the components with react-testing-library.
